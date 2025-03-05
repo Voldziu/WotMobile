@@ -1,4 +1,7 @@
 IOS App to track players' WoT stats. 
+Inspired by https://pl.wot-life.com/ and https://tomato.gg/
+
+
 Minimal clan features, such as creating events.
 
 
